@@ -218,40 +218,17 @@
 	
 	
 	/*                                                                                                                                    */
-	/* ----------------------------------------------------- NAVIGATION STYLE START ----------------------------------------------------- */
+	/* ----------------------------------------------------- ADSBLOCK STYLE START ----------------------------------------------------- */
 	/*                                                                                                                                    */
  
-	nav {
+	ads {
 		width: 651px;
 		height: 26px;
 		margin: 33px -20px 0 0;
 		float: right; }
-	 
-	nav li {
-		font-size: 13px;
-		float: right;
-		margin-right: 20px; }
-	 
-		nav li a {
-			color: #444444;
-			float: left; 
-			-webkit-transition: all .5s ease-in-out; 
-			-moz-transition: all .5s ease-in-out; }
-	 
-			nav li a .menu_right {
-				height: 26px;
-				cursor: pointer;
-				text-align: center;
-				padding: 5px 15px 0px 15px;
-				float: left; }
-	 
-			nav li a:hover {
-				background: url(../images/navigation_hover_background.png) repeat-x;
-				color: #FFFFFF;
-				float: left; }
 				
 	/*                                                                                                                                    */
-	/* ------------------------------------------------------ NAVIGATION STYLE END ------------------------------------------------------ */
+	/* ------------------------------------------------------ ADSBLOCK STYLE END ------------------------------------------------------ */
 	/*                                                                                                                                    */
 
 	
