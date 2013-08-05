@@ -35,8 +35,10 @@
 		width: 50px;
 		height: 100%;
 		position: absolute;
-		top: 30px;
-		left: 0px; }
+		top: 130px;
+		left: 0px; 
+		display: none;
+		}
  
 		a.colour-changer-link {
 			background-image: url(../images/colour_changer_background.png);
