@@ -1234,7 +1234,8 @@
 /* =================================
    =====  General styles =====
    ================================= */
-.wrapper { margin: 0 5%; }
+margin: 0 auto;
+width: 938px;
 .img { border: 1px solid #d5d5d5; }
 
 /* ==========  Typo  ========== */
