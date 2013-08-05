@@ -1224,3 +1224,12 @@
 .sOutbox { background: url(../images/icons/topnav/subOutbox.png) no-repeat 14px 11px; }
 .sTrash { background: url(../images/icons/topnav/subTrash.png) no-repeat 14px 12px; }
 
+
+/* =================================
+   =====  General styles =====
+   ================================= */
+.wrapper { margin: 0 5%; }
+.img { border: 1px solid #d5d5d5; }
+
+/* ==========  Typo  ========== */
+
