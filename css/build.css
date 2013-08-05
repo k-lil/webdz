@@ -1198,7 +1198,7 @@
 /* ===== Top navigation ===== */
 
 #topNav { height: 36px; display: block; }
-.fixed { position: fixed; background: url(../images/topNav.jpg) repeat; width: 100%; color: #eeeeee; border-bottom: 1px solid #4a4f51; z-index: 999; }
+.fixed { position: fixed; background: url(../images/topNav.jpg) repeat; width: 100%; color: #eeeeee; border-bottom: 1px solid #4a4f51; z-index: 9999; }
 
 .welcome { float: left; }
 .welcome img { float: left; margin: 8px 8px 8px 0 }
