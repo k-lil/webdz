@@ -173,7 +173,8 @@
 		visibility: hidden; }
 	 
 	h1 {
-		font-size: 15px;
+        font-family: ‘Metrophobic’, Arial, serif;
+        font-weight: 400;
 		color: #FFFFFF;
 		font-weight: 100;
 		margin: 0 0 17px 0;
@@ -183,6 +184,8 @@
 		padding-top: 20px; 
 		clear: left; 
 		font-family: 'Roboto', sans-serif;
+		font-size: 13px;
+		text-align: justify; 
 		}
  
 	#background-greenbar {
