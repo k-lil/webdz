@@ -1224,6 +1224,12 @@
 .sOutbox { background: url(../images/icons/topnav/subOutbox.png) no-repeat 14px 11px; }
 .sTrash { background: url(../images/icons/topnav/subTrash.png) no-repeat 14px 12px; }
 
+.backToDash { text-align: center; margin: 10px; }
+.backTo a:hover { background: #212121; }
+.backTo span { padding: 8px 14px 8px 8px; display: block; float: left; }
+.backTo img { margin: 13px 2px 11px 14px; float: left; display: block; }
+.backTo a { float: left; color: #eeeeee; font-size: 11px; border-right: 1px solid #2F2F2F; border-left: 1px solid #2F2F2F; }
+
 
 /* =================================
    =====  General styles =====
