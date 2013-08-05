@@ -181,7 +181,9 @@
 	 
 	p { 
 		padding-top: 20px; 
-		clear: left; }
+		clear: left; 
+		font-family: 'Roboto', sans-serif;
+		}
  
 	#background-greenbar {
 		background-image: url(../images/background_greenbar.png);
