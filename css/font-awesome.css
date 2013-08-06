@@ -1477,3 +1477,16 @@ a .icon-flip-vertical:before {
 .icon-renren:before {
   content: "\f18b";
 }
+/* =================================
+   =====  social icons star =====
+   ================================= */
+.icon-twitter {
+    color: #33BCEF;
+}
+.icon-facebook {
+    color: #3B5998;
+}
+.icon-tumblr {
+    color: #FFFFFF;
+}
+/* ==========  social icons end  ========== */
